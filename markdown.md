@@ -26,9 +26,12 @@ conloe.log();
 [Github](http://github.vc)
 [Teamp]()
 
+
 |기술|레벨|
 |--|--|
 |Pythonf
+
+
 
 
 

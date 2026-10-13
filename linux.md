@@ -30,3 +30,5 @@ echo 'world' >> test.txt #끝에 덧붙이기
     - less: 새로운 레이어에 출력
 
 rm - 삭제하고 싶음 파일
+
+
